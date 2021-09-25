@@ -51,4 +51,11 @@ Inicie
   npx react-native run-ios
 ```
 
+Dados para login:
+
+```bash
+  Email: teste
+  Password: 123456
+```
+
   
