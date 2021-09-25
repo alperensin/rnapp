@@ -1,0 +1,38 @@
+export default [
+  {
+    id: '1',
+    name: 'name',
+    category_id: 'category',
+    price: 'price',
+    unit: 'unit',
+    img: 'img',
+    description: 'decription',
+  },
+  {
+    id: '2',
+    name: 'name',
+    category_id: 'category',
+    price: 'price',
+    unit: 'unit',
+    img: 'img',
+    description: 'decription',
+  },
+  {
+    id: '3',
+    name: 'name',
+    category_id: 'category',
+    price: 'price',
+    unit: 'unit',
+    img: 'img',
+    description: 'decription',
+  },
+  {
+    id: '4',
+    name: 'name',
+    category_id: 'category',
+    price: 'price',
+    unit: 'unit',
+    img: 'img',
+    description: 'decription',
+  },
+];
